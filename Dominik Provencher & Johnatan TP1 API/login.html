@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="/public/css/login.css">
+  <title>Login</title>
+</head>
+
+<body>
+  <div class="header">
+    <h1>Login</h1>
+  </div>
+  <form action="/" method="POST" id="my-form">
+    <input type="hidden" id="id" name="id" />
+
+    <label for="username">Username:</label>
+    <input type="text" id="username" name="username" />
+
+    <label for="avatar">Avatar:</label>
+    <input type="text" id="avatar" name="avatar" />
+
+    <label for="description">Description:</label>
+    <input type="text" id="description" name="description" />
+
+    <input type="submit" value="Submit" />
+    <a href="/index.html" class="button">Visiteur</a>
+  </form>
+
+
+  <script src="public/js/login.js"></script>
+</body>
+
+</html>

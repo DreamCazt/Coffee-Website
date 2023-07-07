@@ -1,0 +1,68 @@
+[
+  {
+    "id": 2,
+    "username": "poulette",
+    "avatarUrl": "https://www.tourisme-paysdepouzauges.fr/wp-content/uploads/2018/12/sarah-rezzoug-roule-poulette-560x560.jpg",
+    "description": "I am the first user. I like chickens"
+  },
+  {
+    "id": 3,
+    "username": "Bob",
+    "avatarUrl": "https://media.tenor.com/AwNcP7zplaMAAAAd/enbyzwithfun-apongebob.gif",
+    "description": "Love me"
+  },
+  {
+    "id": 4,
+    "username": "Frédéric",
+    "avatarUrl": "https://images.unsplash.com/photo-1480429370139-e0132c086e2a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=988&q=80",
+    "description": "J'aime être bien habillé"
+  },
+  {
+    "id": 5,
+    "username": "Turkish Van",
+    "avatarUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy2UfltbvWh1nQog46XrjX8jGZlGdzb5dXYg&usqp=CAU",
+    "description": "Depending on the season, the Turkish Van cat has a thick coat of usually white hair, sometimes with orange speckles. Its most characteristic quality is its two-colored eyes that are seen in most cats of the breed."
+  },
+  {
+    "id": 6,
+    "username": "PetitePommeDeTerre",
+    "avatarUrl": "https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2340&q=80",
+    "description": "Yeah!"
+  },
+  {
+    "id": 14,
+    "username": "heisenberg",
+    "avatarUrl": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/streams/2013/October/131004/8C9274899-tdy-131004-breakin-bad-obit-tease2.jpg",
+    "description": "Science is the explanation of our existence. "
+  },
+  {
+    "id": 15,
+    "username": "test-user-1",
+    "avatarUrl": "https://th.bing.com/th/id/OIP.04DMgWld3haXBdCT8ZZUkAHaFe?w=285&h=210&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+    "description": "to delete"
+  },
+  {
+    "id": 16,
+    "username": "bob2030",
+    "avatarUrl": "https://cdn.futura-sciences.com/sources/images/chien-min.jpeg",
+    "description": "mon chien prefere"
+  },
+  {
+    "id": 17,
+    "username": " Mélomane",
+    "avatarUrl": "https://th.bing.com/th/id/OIP.mKuyUQcOTmp2YuSbB72kkQHaHa?w=198&h=198&c=7&r=0&o=5&pid=1.7",
+    "description": "J'aime la musique. Prêt à écouter, discuter de bons albums"
+  },
+  {
+    "id": 18,
+    "username": "Lili Lala",
+    "avatarUrl": "https://cdn.pixabay.com/photo/2021/08/31/11/58/woman-6588614_1280.jpg",
+    "description": "Nouvelle Utilisatrice"
+  },
+  {
+    "id": 19,
+    "username": "Normand L'Amour",
+    "avatarUrl": "https://www.summummag.com/wp-content/uploads/2019/09/166LEGENDE_NORMAND-AMOUR_06.jpg",
+    "description": "La poignée de porte"
+  }
+]

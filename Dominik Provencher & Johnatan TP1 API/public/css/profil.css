@@ -1,0 +1,80 @@
+/** @format */
+
+.container {
+  display: flex;
+
+  align-items: center;
+  flex-direction: column;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.profile-container {
+  display: flex;
+  flex-direction: column;
+  background-color: #161616;
+  border: 2px solid #ffffff;
+  border-radius: 5px;
+  padding: 20px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+  width: 36%;
+}
+
+.avatar {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.username {
+  font-size: 24px;
+  font-weight: bold;
+  margin-top: 10px;
+  color: white;
+}
+
+.bio {
+  margin-top: 5px;
+  color: white;
+}
+
+.countPost {
+  margin-top: 10px;
+  color: white;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #000;
+  margin: 0;
+  padding: 0;
+}
+.btn-back {
+  color: #ffffff;
+  background-color: #8156c7;
+  border-radius: 10px;
+  width: 75px;
+  height: 30px;
+  margin-bottom: 5px;
+  cursor: pointer;
+}
+.btn-container {
+  display: flex;
+  width: 40%;
+  margin-bottom: 5%;
+}
+
+@media screen and (max-width: 768px) {
+  .publications {
+    grid-template-columns: 1fr;
+  }
+}
